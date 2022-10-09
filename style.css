@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conatainer{
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #453A8F;
+    padding: 0 20px;
+}
+.conatainer h1{
+    color: #C8D5EF;
+    font-weight: 600;
+}
+#btn{
+    border: none;
+    background-color: #271B72;
+    color: #fff;
+    padding: 13px 25px;
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
