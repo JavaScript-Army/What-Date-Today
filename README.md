@@ -3,7 +3,7 @@
 <p>By Clicking a Button_ You will have to do what Day it is today </p>
 
 <br/>
-<p>Alert of popup message required</p>
+<p>Alert or popup message required</p>
 
 
 
